@@ -1,0 +1,9 @@
+1996-12-26,Wheat Bread
+2004-04-15,PB&J Sandwich
+2008-09-12,Apple
+2009-12-06,Jelly
+2011-02-08,Orange
+2011-02-08,Chicken Sandwich
+2019-04-18,Apple
+2019-04-18,Orange
+2019-04-18,Gross Salad
